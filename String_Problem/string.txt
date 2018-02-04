@@ -1,0 +1,28 @@
+Strings
+
+  1.	Find the first non-repeated character in a String
+  2.	Reverse a String iteratively and recursively
+  3.	Determine if 2 Strings are anagrams
+  4.	Check if String is a palindrome
+  5.	Check if a String is composed of all unique characters
+  6.	Determine if a String is an int or a double
+  7.	HARD: Find the shortest palindrome in a String
+  8.	HARD: Print all permutations of a String
+  9.	HARD: Given a single-line text String and a maximum width value, write the function 
+    'String justify(String text, int maxWidth)' that formats the input text using full-justification, 
+    i.e., extra spaces on each line are equally distributed between the words; the first word on each 
+    line is flushed left and the last word on each line is flushed right
+    
+  10. Write a method which will remove any given character from a String? (solution)
+    hint : you can remove a given character from String by converting it into character 
+    array and then using substring() method for removing them from output string.
+    
+  11. Print all permutation of String both iterative and Recursive way? (solution)
+  
+  12. Write a function to find out longest palindrome in a given string? (solution)
+  
+  13. How to find first non repeated character of a given String? (solution)
+  
+  14. How to count occurrence of a given character in a String? (solution)
+
+  15. How to check if two String are Anagram? (solution)
